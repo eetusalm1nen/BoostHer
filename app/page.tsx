@@ -43,7 +43,7 @@ export default function Home() {
         <p className="mb-6 max-w-xl text-zinc-600 dark:text-zinc-400">
           Get in touch! Collaborations, partnerships, etc.
         </p>
-        <p className="mb-6 max-w-xl text-zinc-600 dark:text-zinc-400">wilma@boostturku.fi</p>
+        <p className="mb-6 max-w-xl text-zinc-600 dark:text-zinc-400">wilma@boostturku.com</p>
        
       </Section>
     </main>

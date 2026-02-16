@@ -57,11 +57,11 @@ export const portfolioData = {
   ],
   team: [
     { src: "/team/Wilma.png", alt: "Wilma", name: "Wilma", title: "Team Lead", linkedIn: "https://linkedin.com/in/wilma-tiainen/" },
-    { src: "/team/India.png", alt: "India", name: "India", title: "Finance Lead", linkedIn: "https://www.linkedin.com/in/india-claudino/" },
-    { src: "/team/Uruj.png", alt: "Uruj", name: "Uruj", title: "Outreach", linkedIn: "https://www.linkedin.com/in/uruj-sarwar/" },
+    { src: "/team/India.png", alt: "India", name: "India", title: "KM & Mentoring Program Lead", linkedIn: "https://www.linkedin.com/in/india-claudino/" },
+    { src: "/team/Uruj.png", alt: "Uruj", name: "Uruj", title: "Tech Lead", linkedIn: "https://www.linkedin.com/in/uruj-sarwar/" },
     { src: "/team/Kia.png", alt: "Kia", name: "Kia", title: "Volunteer Lead", linkedIn: "https://www.linkedin.com/in/kiakauppila/" },
     { src: "/team/Eeva.png", alt: "Eeva", name: "Eeva", title: "Marketing Lead", linkedIn: "https://www.linkedin.com/in/eeva-timonen/" },
-    { src: "/team/Suvi.png", alt: "Suvi", name: "Suvi", title: "Mentoring Lead", linkedIn: "https://www.linkedin.com/in/suvi-pajunen-b68006374/" },
+    { src: "/team/Suvi.png", alt: "Suvi", name: "Suvi", title: "Wellbeing Lead", linkedIn: "https://www.linkedin.com/in/suvi-pajunen-b68006374/" },
   ],
   faq: [
     { question: "What is BoostHer?", answer: "BoostHer is a concept under Boost Turku that promotes the participation of women and minorities in the startup ecosystem through events, workshops, and networking opportunities." },

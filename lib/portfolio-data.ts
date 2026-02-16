@@ -29,7 +29,7 @@ export const portfolioData = {
     ctaHref: "https://www.instagram.com/boostherturku/",
   },
   about: {
-    bio: "BoostHer is a concept under Boost Turku, promoting the participation of women and minorities in the startup ecosystem trough events, workshops and networking opportunities. We provide practical tools for entrepreneurship and lower the treshold for joining the startup community.",
+    bio: "BoostHer is a concept under Boost Turku, promoting the participation of women and minorities in the startup ecosystem through events, workshops and networking opportunities. We provide practical tools for entrepreneurship and lower the threshold for joining the startup community.",
   },
   mission: {
     text: "Our mission is to increase the representation of women and minorities in entrepreneurship and startup ecosystem."

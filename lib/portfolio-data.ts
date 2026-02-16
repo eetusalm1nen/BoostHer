@@ -24,7 +24,7 @@ export interface ContactLink {
 export const portfolioData = {
   hero: {
     name: "BoostHer",
-    tagline: "ENCOURAGING WOMEN TO ENTREPRENEURSHIP",
+    tagline: "ENCOURAGING WOMEN TOWARDS ENTREPRENEURSHIP",
     ctaText: "Explore more",
     ctaHref: "https://www.instagram.com/boostherturku/",
   },

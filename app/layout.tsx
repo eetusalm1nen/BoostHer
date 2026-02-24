@@ -12,9 +12,9 @@ const gildaDisplay = Gilda_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Boosther | Portfolio",
+  title: "BoostHer",
   description:
-    "Design & development that makes an impact. A portfolio of projects and digital experiences.",
+    "Lowering the threshold towards entrepreneurship.",
 };
 
 export default function RootLayout({

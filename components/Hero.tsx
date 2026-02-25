@@ -18,7 +18,7 @@ export function Hero({ data }: HeroProps) {
           className="object-cover object-center"
           priority
         />
-        <div className="absolute inset-0 bg-white/80 dark:bg-zinc-950/80" aria-hidden />
+        <div className="absolute inset-0 bg-black/60" aria-hidden />
       </div>
       <p className="relative mb-8 max-w-xl text-lg font-bold text-white sm:text-xl">
         {data.tagline}

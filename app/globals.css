@@ -4,21 +4,21 @@
 
 /* ========== Design tokens ========== */
 :root {
-  /* Colors */
-  --background: #ffffff;
+  /* Colors - force \"dark\" theme for everyone */
+  --background: #ccaeae;
   --foreground: #ffdbdc;
-  --muted: #525252;
+  --muted: #a1a1aa;
   --muted-foreground: #ffdbdc;
-  --border: #e4e4e7;
-  --border-hover: #d4d4d8;
-  --card: #ffffff;
+  --border: #27272a;
+  --border-hover: #3f3f46;
+  --card: rgba(24, 24, 27, 0.5);
   --card-foreground: #ffdbdc;
-  --primary: #18181b;
-  --primary-foreground: #ffffff;
-  --primary-hover: #3f3f46;
+  --primary: #fafafa;
+  --primary-foreground: #18181b;
+  --primary-hover: #e4e4e7;
   --link: #ffdbdc;
   --link-hover: #ffdbdc;
-  --overlay: rgba(255, 255, 255, 0.8);
+  --overlay: rgba(9, 9, 11, 0.8);
 
   /* Spacing */
   --section-padding: 4rem;
@@ -50,6 +50,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    /* Keep the same values so light/dark look identical */
     --background: #ccaeae;
     --foreground: #ffdbdc;
     --muted: #a1a1aa;
